@@ -1,0 +1,26 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="36" fill="#F5F1E8"/>
+  <defs>
+    <path id="topArc" d="M 90 154 A 166 166 0 0 1 422 154"/>
+    <path id="midArc" d="M 122 350 A 134 134 0 0 0 390 350"/>
+  </defs>
+  <text fill="#CBB27C" font-family="Georgia, 'Times New Roman', serif" font-size="38" letter-spacing="7">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">NEELKANTH</textPath>
+  </text>
+  <text fill="#30469A" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="4">
+    <textPath href="#midArc" startOffset="50%" text-anchor="middle">MULTI SPECIALITY</textPath>
+  </text>
+  <path d="M210 165C183 170 155 194 155 236C155 262 168 286 188 304C203 318 210 331 210 347C210 369 224 389 248 397V363C248 346 252 330 260 315C269 299 276 281 276 258C276 203 249 161 210 165Z" fill="#2E48A3"/>
+  <path d="M303 162C333 165 358 188 358 224C358 244 352 262 338 278C326 291 321 304 321 323V360C347 347 365 326 372 296C380 260 374 220 357 194C345 176 326 165 303 162Z" fill="#2E48A3"/>
+  <path d="M163 271C221 237 286 237 349 270" stroke="#C9AE76" stroke-width="14" stroke-linecap="round"/>
+  <path d="M120 295C213 333 315 334 402 290" stroke="#8E8376" stroke-width="18" stroke-linecap="round" opacity="0.95"/>
+  <path d="M286 220V358" stroke="#8E8376" stroke-width="8" stroke-linecap="round"/>
+  <path d="M286 250C307 250 319 260 328 273" stroke="#8E8376" stroke-width="8" stroke-linecap="round"/>
+  <path d="M286 284C307 284 322 293 334 307" stroke="#8E8376" stroke-width="8" stroke-linecap="round"/>
+  <path d="M286 318C306 318 319 326 329 338" stroke="#8E8376" stroke-width="8" stroke-linecap="round"/>
+  <rect x="320" y="148" width="82" height="16" rx="8" transform="rotate(28 320 148)" fill="#30469A"/>
+  <rect x="334" y="157" width="70" height="10" rx="5" transform="rotate(28 334 157)" fill="#F5F1E8"/>
+  <rect x="339" y="167" width="54" height="9" rx="4.5" transform="rotate(28 339 167)" fill="#F5F1E8"/>
+  <rect x="344" y="177" width="42" height="8" rx="4" transform="rotate(28 344 177)" fill="#F5F1E8"/>
+  <text x="256" y="454" fill="#FFFFFF" font-family="'Trebuchet MS', Arial, sans-serif" font-size="44" letter-spacing="8" text-anchor="middle">DENTAL HOSPITAL</text>
+</svg>
